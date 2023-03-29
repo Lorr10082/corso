@@ -1,0 +1,37 @@
+#global{
+    text-align: center;
+    max-width: 800px;
+    margin:auto
+}
+html {
+    background:linear-gradient(to right, purple, pink)
+}
+#lista1{
+    text-align: left;
+    margin: 0;
+    
+
+}
+
+#logoborder{
+    border-style: solid;
+    border-color: aliceblue;
+}
+
+#ingredients{
+    border-bottom: solid;
+    border-bottom-color: white;
+    
+}
+#method{border-bottom: solid;
+    border-bottom-color: white;
+}
+
+#section2{
+    text-align: left;
+    margin: 0;
+}
+
+#whitebord {
+    background-color: white;
+}
