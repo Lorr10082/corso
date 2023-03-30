@@ -1,0 +1,44 @@
+body{
+    background-image:url("img/sfondo.png");
+    background-size: auto;
+    
+}
+
+header{
+    margin:0 auto;
+    text-align: center;
+    color:white;
+    background:linear-gradient(to bottom, rgba(3,109,134,1),rgba(0,160,198,1));
+}
+
+.menu:hover{
+    color:red;
+}
+.menu{
+    color: white;
+}
+#Mario{
+    display:inline;
+    font-size: 25px;
+    vertical-align: text-bottom;
+    
+}
+#data{
+    display:inline;
+    font-size: 25px;
+    vertical-align: text-bottom;
+}
+
+main{
+    background-color: white;
+}
+
+table{
+    text-align: center;
+}
+
+#logo{
+    width:300px;
+    padding: 50px;
+}
+
