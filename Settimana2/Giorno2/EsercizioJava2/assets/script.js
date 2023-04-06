@@ -66,8 +66,10 @@ var nome1 = 'john';
 var nome2 = 'John';
 
 
-function nomi() {
-    stato=(nome1 = nome2) ? 'SI' : 'NO';
+if(nome1==nome2) {
+    console.log('le variabili sono uguali');
+} else {
+    console.log('le variabili non sono uguali');
 }
 
 
@@ -76,3 +78,5 @@ document.getElementById('nome2').innerHTML = nome2;
 document.getElementById('esito').innerHTML = stato;
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+
+
